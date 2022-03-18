@@ -1,2 +1,2 @@
 #!/bin/bash
-zip ram.sh *
+zip ram.zip *
